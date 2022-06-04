@@ -5,7 +5,7 @@
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn]][3].
+You can find me on [LinkedIn][3].
 
 <!-- Icons -->
 
