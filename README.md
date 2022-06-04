@@ -1,7 +1,19 @@
 ### Hi there 👋
 ### I'm Zayd, a Full Stack Web Developer and Masters Student in Computer and Information Technology!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahmed10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahmed10&&show_icons=true&theme=dark&layout=compact" />
+
+<!-- Actual text -->
+
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/za614
 
 
 <!--
