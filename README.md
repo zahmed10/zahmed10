@@ -1,6 +1,9 @@
 ### Hi there 👋
 ### I'm Zayd, a Full Stack Web Developer and Masters Student in Computer and Information Technology!
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=zahmed10&theme=<THEME_NAME>" />
+
+
 <!--
 **zahmed10/zahmed10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
