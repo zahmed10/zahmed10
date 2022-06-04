@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Zayd and I'm a Full Stack Developer!
+### I'm Zayd, a Full Stack Web Developer and Masters Student in Computer and Information Technology!
 
 <!--
 **zahmed10/zahmed10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
