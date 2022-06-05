@@ -2,7 +2,7 @@
 ### I'm Zayd, a Full Stack Web Developer and Masters Student in Computer and Information Technology!
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahmed10&&show_icons=true&theme=dark&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahmed10&&show_icons=true&theme=dark&layout=compact" />
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/?username=zahmed10&&show_icons=true&theme=dark&layout=compact" /> -->
 </p>
 
